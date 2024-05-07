@@ -52,13 +52,10 @@ public class PaymentwebappDAO {
 			}
 		    return false;
 	}
-	public List<Bankaccount>getBADetailsByuserID(int userId){
-		List<Bankaccount> Ba= new ArrayList<Bankaccount>();
-		
-		return Ba;
+	
 		
 		
 		
 	}
 
-}
+
